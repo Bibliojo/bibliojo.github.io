@@ -1,20 +1,20 @@
 # Site wide configuration
 
-title: Site Title
+title: Joanne Paterson
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Joanne Paterson
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: Librarian
+  email: jpater22@uwo.ca
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  twitter: Bibliojo
+  linkedin: JoPaterson
+  github: Bibliojo
+  orcid: 0000-0002-3998-1470
   researchgate: #username
   mendeley: #username
   google:
@@ -47,7 +47,7 @@ lowlight-color: '#000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
-  cc-by: #yes
+  cc-by: yes
   cc-by-nc: #yes
 
 #DO NOT EDIT BEYOND THIS POINT
