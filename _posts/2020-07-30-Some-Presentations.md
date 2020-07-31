@@ -1,8 +1,8 @@
 ---
-layout: presentation-post-index
+layout: post
 title: Presentations
 excerpt: "Recent Presentations"
-category: presentations
+category: blog
 ---
 [Integrating Digital Humanities into the web of scholarship with SHARE: An exploration of requirements. Access Conference, McMaster University October 2018] https://osf.io/zhxe2/
 
