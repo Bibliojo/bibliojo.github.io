@@ -15,4 +15,4 @@ Recently I have rekindled my love of trumpet playing and have joined several ban
 - [Acquiring and transforming data](https://programminghistorian.org/en/lessons/)
 - [Metadata, Metrics and Knowledge Exchange with Western Research](https://www.uwo.ca/research/services/kex/index.html)
 - [MEI project](https://music-encoding.org/)
-- [Genealogy: visualizing family history data](http://accessola2.com/SC2018/event/i-see-dead-people-using-digital-tools-to-manage-and-visualize-your-family-history/index.html)
+- [Genealogy: visualizing family history data](https://docs.google.com/presentation/d/1oDtuZz2VXov425Uu41EeVaSKJ5dJF_PkclGfEYH2QSE/edit?usp=sharing)
