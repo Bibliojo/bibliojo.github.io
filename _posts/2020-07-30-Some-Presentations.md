@@ -2,6 +2,7 @@
 layout: presentation-post-index
 title: Presentations
 excerpt: "Recent Presentations"
+category: presentations
 ---
 [I see dead people: managing and visualizing family history data](https://www.olasuperconference.ca/SC-2018/event/i-see-dead-people-using-digital-tools-to-manage-and-visualize-your-family-history/)
 
