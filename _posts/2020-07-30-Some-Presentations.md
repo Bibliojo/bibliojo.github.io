@@ -4,7 +4,7 @@ title: Presentations
 excerpt: "Recent Presentations"
 category: blog
 ---
-[Integrating Digital Humanities into the web of scholarship with SHARE: An exploration of requirements. Access Conference, McMaster University October 2018] (https://osf.io/zhxe2/)
+[Integrating Digital Humanities into the web of scholarship with SHARE : An exploration of requirements. Access Conference, McMaster University October 2018](https://osf.io/zhxe2/)
 
 [I see dead people: managing and visualizing family history data](https://docs.google.com/presentation/d/1oDtuZz2VXov425Uu41EeVaSKJ5dJF_PkclGfEYH2QSE/edit?usp=sharing)
 
