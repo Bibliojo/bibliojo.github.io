@@ -32,19 +32,19 @@ Bachelor of Music in Music History and Literature
 ## Certificates
 
 `2020`
-1. [Using Python to Access Web Data](https://coursera.org/share/3bb79b0f81ab2ecaffcbd2e64aa60f37)
-2. [Python Data Structures](https://coursera.org/share/d86d0b525359a0a50dca7f0e5e04a73f)
-3. [Python and SQLite]
-4. [Wikidata training](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/20339048)
-5. [Scopus training](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/16307019)
+- [Using Python to Access Web Data](https://coursera.org/share/3bb79b0f81ab2ecaffcbd2e64aa60f37)
+- [Python Data Structures](https://coursera.org/share/d86d0b525359a0a50dca7f0e5e04a73f)
+- [Python and SQLite]
+- [Wikidata training](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/20339048)
+- [Scopus training](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/16307019)
 
 `2019`
-1. [Creative Commons certificate](https://www.linkedin.com/in/joannepaterson/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAARFVCYB4lx-EbfY5qk85pVlUNpVsgHnL24,1576534799863)
+- Creative Commons Certificate
 
 ## Theses
-1. “Enhancements to the online catalogue: a music cataloguer’s perspective.”  MSc Information and Library Science, Thesis. Robert Gordon University, 2005
+- “Enhancements to the online catalogue: a music cataloguer’s perspective.”  MSc Information and Library Science, Thesis. Robert Gordon University, 2005
 
-2. “From rondò aria to cantabile-cabaletta: the Italian opera aria in transition, 1780-1825.” [MA Musicology, Thesis. University of Calgary, 1996.](http://search.proquest.com/docview/304313043?accountid=15115 (accessed October 18, 2015)
+-“From rondò aria to cantabile-cabaletta: the Italian opera aria in transition, 1780-1825.” [MA Musicology, Thesis. University of Calgary, 1996.](http://search.proquest.com/docview/304313043?accountid=15115 (accessed October 18, 2015)
 
 ## Presentations
 
