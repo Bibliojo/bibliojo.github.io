@@ -44,7 +44,7 @@ Bachelor of Music in Music History and Literature
 ## Theses
 - “Enhancements to the online catalogue: a music cataloguer’s perspective.”  MSc Information and Library Science, Thesis. Robert Gordon University, 2005
 
--“From rondò aria to cantabile-cabaletta: the Italian opera aria in transition, 1780-1825.” [MA Musicology, Thesis. University of Calgary, 1996.](http://search.proquest.com/docview/304313043?accountid=15115 (accessed October 18, 2015)
+- “From rondò aria to cantabile-cabaletta: the Italian opera aria in transition, 1780-1825.” [MA Musicology, Thesis. University of Calgary, 1996.](http://search.proquest.com/docview/304313043?accountid=15115 (accessed October 18, 2015)
 
 ## Presentations
 
