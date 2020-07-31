@@ -17,15 +17,3 @@ category: presentations
     ## Slide 3
   </textarea>
 </section>
-
-
-</section>
-
-## More Information
-
-Jekyll Academic includes everything that you need in order to make Reveal.js work. Copy this file and edit it to begin making your own slide deck.  
-
-For more information about all of the options available in Reveal.js please the [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)
-
-
-</section>
