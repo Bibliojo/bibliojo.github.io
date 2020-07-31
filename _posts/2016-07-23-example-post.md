@@ -8,6 +8,7 @@ comments: true
 category: blog
 ---
 
+sample ( don't publish) 
 This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll.
 
 ## What is a static website generator?
