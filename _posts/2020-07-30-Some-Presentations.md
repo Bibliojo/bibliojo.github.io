@@ -4,7 +4,7 @@ title: Presentations
 excerpt: "Recent Presentations"
 category: blog
 ---
-[Integrating Digital Humanities into the web of scholarship with SHARE: An exploration of requirements. Access Conference, McMaster University October 2018] https://osf.io/zhxe2/
+[Integrating Digital Humanities into the web of scholarship with SHARE: An exploration of requirements. Access Conference, McMaster University October 2018] (https://osf.io/zhxe2/)
 
 [I see dead people: managing and visualizing family history data](https://docs.google.com/presentation/d/1oDtuZz2VXov425Uu41EeVaSKJ5dJF_PkclGfEYH2QSE/edit?usp=sharing)
 
@@ -16,4 +16,4 @@ category: blog
 
 [OCUL Digital Curation Summit 27 October 2016  SHARE presentation](https://docs.google.com/presentation/d/1dEYN255Ce4klYJhrFwOZnqHkNVeYilh1YllguraSbwk/edit?usp=sharing)
 
-[Career Path, by request from the OLA Career Center, OLA Super Conference 2017](https://drive.google.com/open?id=0BwF7s1S0aBpLVnVYZFZiVU1SZEE)
+[Career Path, by request from the OLA Career Center, OLA Super Conference 2017and 2-18]
