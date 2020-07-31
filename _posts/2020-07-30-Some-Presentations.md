@@ -4,11 +4,13 @@ title: Presentations
 excerpt: "Recent Presentations"
 category: presentations
 ---
-[I see dead people: managing and visualizing family history data](https://www.olasuperconference.ca/SC-2018/event/i-see-dead-people-using-digital-tools-to-manage-and-visualize-your-family-history/)
+[Integrating Digital Humanities into the web of scholarship with SHARE: An exploration of requirements. Access Conference, McMaster University October 2018] https://osf.io/zhxe2/
+
+[I see dead people: managing and visualizing family history data](https://docs.google.com/presentation/d/1oDtuZz2VXov425Uu41EeVaSKJ5dJF_PkclGfEYH2QSE/edit?usp=sharing)
 
 [Open By Default? Concept-Mapping Our Way to Open Access Consensus" OLA Super conference (2018) Emily Carlisle, Lillian S Rigling, Joanne Paterson and Courtney L. Waugh. Poster](http://works.bepress.com/joanne_paterson/46/)
 
-[Recommendations for Curating Digital Commons Metadata for SHARE (Blog Post)] (http://www.share-research.org/2017/08/recommendations-for-curating-digital-commons-metadata-for-share/)
+[Recommendations for Curating Digital Commons Metadata for SHARE (Blog Post)](http://www.share-research.org/2017/08/recommendations-for-curating-digital-commons-metadata-for-share/)
 
 [Digital Commons Great Lakes User Group. BePress Metadata & SHARE.  28 July 2017](https://bibliojo.wordpress.com/2017/08/01/curating-bepress-metadata-for-harvesting-by-share/)
 
