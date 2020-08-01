@@ -2,7 +2,8 @@
 layout: resume
 ---
 ## Head, Research and Scholarly Communication
-### __Western Libraries Western University__
+
+__Western Libraries Western University__
 - Our team collaborates with researchers across campus to advance the creation, management, dissemination, and preservation of your research and scholarship.
 
 ## Education
