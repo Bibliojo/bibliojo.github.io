@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creative Commons Certificate 2019
-excerpt: "This was a great course and I highly recommend it"
+excerpt: "My assignments for the course"
 modified: 2/29/2019,
 tags: [intro, beginner, jekyll]
 comments: true
