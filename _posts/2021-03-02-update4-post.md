@@ -1,16 +1,22 @@
 ---
 layout: post
-title: is it possible to update still
-excerpt: "revisiting my markdown blog"
+title: Pandemic Anniversary
+excerpt: "one for the Archives"
 modified:
-tags: [intro, beginner, jekyll, tutorial]
+tags: [pandemic, music performance, jekyll, tutorial]
 comments: true
 category: blog
 ---
 
-##update 1
- A year ago the severity fo the pandemic had not quite sunk in. We were hearing reports of cases in large centres and conflicting reports as to details. We ended up cancelling travel plans and in two short weeks the lockdown would begin in earnest.
+## Update 1
+ It has been a year since the WHO declared a pandemic. A year ago the severity of COVID-19 had not quite sunk in. We were hearing reports of cases in large centres and conflicting reports as to details. We ended up cancelling travel plans and less than a week the first series of lockdown would begin in earnest. On March 15, I worked from home, thinking that in a few weeks everything would be back to normal. and yet here I am, a year later, working from home and safe at home.
 
-## Music?
-Because I should have kept a copy of the entries on the site, and didn't, I am recreating this from memory -- and mine these days is faulty at best! And so this is a recreation and update to my last version. And that's okay because this is really a means for me to learn and do things, a playground for me to improve my own digital literacy, so that I can then help others. I hope to lead a workshop on some of the things I have toyed with over the last eight weeks.
-whoa! Google cache to the rescue! ( to find out some of the things I wrote previously )
+## Music
+This has been a really tough year for musicians. Friends and acquaintances who freelance, or even those who are members of orchestras, theatre troupes, anyone who relies on performances to make a living have been slammed by this event. Theatres are closed and there are no live performances.
+This has also effected amateur music making too. We know the social and health benefits of collective music making. they are well-documented. Different groups that I play in purely for enjoyment have come up with different solutions to help us muddle through a pandemic.
+
+The first response was to cancel rehearsals and perforamnces. This group was excited to be making to make its Wolf Hall Debut, but alas we will have 
+In the beginning folks sent around thoughtful and motiviating messages. hang in there! One enterprising soul created a video montage, collected images of band folks encouraing remarks.
+here was my contribution
+(insert image here)
+But as there seemed to be no end in sight,
