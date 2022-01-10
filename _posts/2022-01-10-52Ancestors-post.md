@@ -17,7 +17,8 @@ And while she focused on our maternal line, I decided to pick up the paternal li
 I needed to know more. I was hooked!
 
 ## Week 2: Favourite Find
-![Breaking down a brick wall](https://dr.library.brocku.ca/bitstream/handle/10464/9772/AcctBk1.7.pdf "Farm Account book 1821-1852")
+
+!["Farm Account book 1821-1852"](https://dr.library.brocku.ca/bitstream/handle/10464/9772/AcctBk1.7.pdf "Farm Account book 1821-1852")
 
 David Pickel, my 4GreatGrandfather has been a brick wall for me for ages. The Ontario Township Papers available offer a tantalising clue. It mentions Matthew John as David's father, who likely died sometime in 1820.
 
