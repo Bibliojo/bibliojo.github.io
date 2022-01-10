@@ -18,7 +18,7 @@ I needed to know more. I was hooked!
 
 ## Week 2: Favourite Find
 
-*[Farm Account book 1821-1852](https://dr.library.brocku.ca/handle/10464/9772)
+*[Farm Account book 1821-1852](https://dr.library.brocku.ca/handle/10464/9772)*
 
 David Pickel, my 4GreatGrandfather has been a brick wall for me for ages. The Ontario Township Papers available offer a tantalising clue. It mentions Matthew John as David's father, who likely died sometime in 1820.
 <https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSY9-79RK-F?i=299&cat=2759321>
