@@ -27,5 +27,5 @@ David Pickel, my 3xGreatGrandfather has been a brick wall for me for ages. The O
 
 Then while perusing some recently digitised farm account books at the Brock University archives, I found this page which mentions David and Mathias Pickle
 ![FarmAccount](https://live.staticflickr.com/65535/51814422541_0907acd8eb_b_d.jpg)
-David is given credit for three days work. and I am not sure who is recieiving or getting bu I tihnk Mathis has purchased a pound of salt? I t puts these two together in the same area where David eventually married.
+David is given credit for three days work. and I am not sure who is recieiving or getting but I think Matthias has purchased a pound of salt? It puts these two together in the same area where David eventually married.
 Now to see where it leads me!
