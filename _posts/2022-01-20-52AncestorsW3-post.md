@@ -2,7 +2,7 @@
 layout: post
 title: Ancestors
 excerpt: Week 3
-modified:
+modified: January 20, 2022
 tags: [genealogy, challenge 52ancestors, AJCrow]
 comments: true
 category: blog
