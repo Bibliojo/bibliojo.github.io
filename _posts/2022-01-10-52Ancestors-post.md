@@ -2,7 +2,7 @@
 layout: post
 title: 52 Ancestors in 52 weeks
 excerpt: "a weekly genealogy challenge from the Generations Cafe "
-modified:
+modified: January 10 2022
 tags: [genealogy, challenge 52ancestors, AJCrow]
 comments: true
 category: blog
