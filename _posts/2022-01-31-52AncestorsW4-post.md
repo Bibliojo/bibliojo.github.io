@@ -18,6 +18,8 @@ consider where you might look
 write down where you have already looked
 doing so may save you time and money. I am embarrassed to say that I have purchased the same document twice, because I forgot that I had done so already.
 
-[Genealogy Research Log created in Excel by Thomas MacEntee](https://docs.google.com/spreadsheets/d/1PAADC5XkLINPktjuacfxr0f6RcL_C0DO_3g-d8bhzWQ/edit#gid=1096784801  "Research Log")
+Genealogy Research Log created in Excel by Thomas MacEntee
+<https://docs.google.com/spreadsheets/d/1PAADC5XkLINPktjuacfxr0f6RcL_C0DO_3g-d8bhzWQ/edit#gid=1096784801>  
+
 
 There are probably as many research logs as there are researchers. The best research log is the one that you use. :)
