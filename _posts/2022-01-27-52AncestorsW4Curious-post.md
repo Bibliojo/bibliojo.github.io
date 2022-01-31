@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ancestors
+title: 52 Ancestors
 excerpt: Week 4
 modified: January 27, 2022
 tags: [genealogy, challenge 52ancestors, AJCrow]
