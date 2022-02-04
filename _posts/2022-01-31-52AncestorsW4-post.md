@@ -24,5 +24,5 @@ It's a good idea to keep track of:
 [Genealogy Research Log created in Excel by Thomas MacEntee]
 (https://docs.google.com/spreadsheets/d/1PAADC5XkLINPktjuacfxr0f6RcL_C0DO_3g-d8bhzWQ/edit#gid=1096784801)
 
-
-There are probably as many research logs as there are researchers. The best research log is the one that you use. :)
+There are probably as many research logs as there are researchers.
+- The best research log is the one that you use. :)
