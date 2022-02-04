@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 52 Ancestors in 52 weeks
+title: 52 Ancestors Week 4
 excerpt: "a weekly genealogy challenge from the Generations Cafe "
 modified: January 31 2022
 tags: [genealogy, challenge 52ancestors, AJCrow]
