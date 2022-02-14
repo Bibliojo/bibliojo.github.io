@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ancestors
+title: 52 Ancestors
 excerpt: Week 6 Maps
 modified: 2022-02-15
 tags: [genealogy, challenge 52ancestors, AJCrow]
