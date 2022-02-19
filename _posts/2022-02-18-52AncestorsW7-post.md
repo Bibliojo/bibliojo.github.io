@@ -13,7 +13,7 @@ category: blog
 It's time for a reboot! I want to set aside time to organise that data that I have, inspect every document for each scrap of information, and create datasets for visualisation. I joined this challenge to share a bit of what I am working on and to start to get organised and to get better at tracking the work that I do. and while the weekly themes are fun and one can, of course, be as creative as one wishes, I think from now on I am just going to focus on one individual per week, and ensure that I have as much info on them as I can find online. In that way I can then seek out to fill in gaps from archives searches.
 I want to find interesting ways to show this data, beyond the family tree.
 
-![JS timeline Spreadsheet for David Pickel](/images/Screenshot 2022-01-18 at 10.23.18 AM.pdf)
+![JS timeline Spreadsheet for David Pickel](https://live.staticflickr.com/65535/51891743600_b26cf5a789_b_d.jpg "JS KnightLab timeline Spreadsheet for David Pickel")
 
 For each of the 52 individuals do I have the basics, the vital stats. Can if find out where they live, went to school, what occupations they may have held. Was there any newsworthy activity? Once I pull this all together, I can see what gaps there may be in my knowledge  and I can then attempt to fill that in.
 
