@@ -2,7 +2,7 @@
 layout: post
 title: Pandemic Anniversary
 excerpt: "one for the Archives"
-modified:
+modified: DRAFT
 tags: [pandemic, music performance, jekyll, tutorial]
 comments: true
 category: blog
