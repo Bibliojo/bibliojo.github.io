@@ -13,4 +13,4 @@ category: blog
 It's time for a reboot reboot!
 My plan has got slightly off the rails and now I am getting back to it. I am currently on a research leave continuing to focus on genealogy and data visualisations. I have a few ideas to pursue and getting the data organised in a first action. I have come to see the great value in having a research log, and I ma working my thoughts through a data management plan (DMP).
 
-![Research log]("https://flic.kr/p/2nn9t4P")
+![Research log](https://live.staticflickr.com/65535/52091483033_9c1b4a726b_o_d.jpg  "Mattis research entries")
