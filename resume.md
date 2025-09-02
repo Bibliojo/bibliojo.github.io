@@ -1,7 +1,7 @@
 ---
 layout: resume
 ---
-Joanne Paterson, Associate Librarian
+# Joanne Paterson, Associate Librarian
 ## Research and Scholarly Communication Team 2024-
 __Western Libraries Western University__
 - RIMS project, Bibliometrics and Impact, Digital Humanities Projects.
