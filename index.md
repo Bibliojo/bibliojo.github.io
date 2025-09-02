@@ -5,7 +5,7 @@ excerpt: "About Me..."
 
 Hello, I’m Jo. I’m a Research & Scholarly Communication Librarian at Western University in London, Ontario. My work focuses on open scholarship, research impact, and the intersections of digital tools for shairng research. I’m also active in digital humanities, developing hands-on workshops and creative projects that explore how technology can enrich our understanding of books, data, and history. Outside of librarianship, I’m a brass musician and an enthusiastic family historian.
 
-I participate in the annual [Tuba Christmas](http://www.tubachristmas.com/)[concert](https://www.youtube.com/watch?v=hwfnNXgrRtc)!
+I participate in the annual [Tuba Christmas]in London [concert](https://www.youtube.com/watch?v=hwfnNXgrRtc)!
 Find me on [Bluesky](https://bsky.app/profile/bibliojo.bsky.social)
 
 ## Current interests and stuff :) 
