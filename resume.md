@@ -1,7 +1,9 @@
 ---
 layout: resume
 ---
-## Head, Research and Scholarly Communication
+## Assocate Librarian, Research and Scholarly Communication Team 2024-
+- RIMS project, Bibliometrics and Impact, Digital Humanities Projects.
+## Head, Research and Scholarly Communication (2018-2023)
 
 __Western Libraries Western University__
 - Our team collaborates with researchers across campus to advance the creation, management, dissemination, and preservation of your research and scholarship.
