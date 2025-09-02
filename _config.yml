@@ -15,14 +15,13 @@ owner:
   linkedin: JoannePaterson
   github: Bibliojo
   orcid: 0000-0002-3998-1470
-  bluesky:(https://bsky.app/profile/bibliojo.bsky.social)
   researchgate: #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: 30sBAYAAAAAJ
   facebook: #username
   instagram: bibliojo
   bing-verify:
@@ -34,12 +33,13 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: JoPaterson
   soundcloud: #username
   weibo: #username
-  flickr: #bibliojo
+  flickr: bibliojo
   codepen: #username
   disqus-shortname:
+  [bluesky] (https://bsky.app/profile/bibliojo.bsky.social)
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
