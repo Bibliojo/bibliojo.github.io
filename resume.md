@@ -1,11 +1,11 @@
 ---
 layout: resume
 ---
-## Assocate Librarian, Research and Scholarly Communication Team 2024-
-- RIMS project, Bibliometrics and Impact, Digital Humanities Projects.
-## Head, Research and Scholarly Communication (2018-2023)
-
+## Associate Librarian, Research and Scholarly Communication Team 2024-
 __Western Libraries Western University__
+- RIMS project, Bibliometrics and Impact, Digital Humanities Projects.
+  
+## Head, Research and Scholarly Communication (2018-2023)
 - Our team collaborates with researchers across campus to advance the creation, management, dissemination, and preservation of your research and scholarship.
 
 ## Education
@@ -65,6 +65,8 @@ Bachelor of Music in Music History and Literature
 ## Occupation
 
 `Current`
+__Associate Librarian, Research and Scholarly Communication.__, Western Libraries. University of Western Ontario.
+
 __Head, Research and Scholarly Communication.__, Western Libraries. University of Western Ontario.
 
 `2015-2018`
